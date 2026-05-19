@@ -2,13 +2,12 @@
 
 Code implementation of the experiments from my co-authored paper:
 
-> Miller, D. J., **Hu, X.**, Qiu, Z., & Kesidis, G. (2017).
 > **Adversarial Learning: A Critical Review and Active Learning Study.**
-> *IEEE International Workshop on Machine Learning for Signal Processing (MLSP).*
+> *IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2017.*
 
-I am Xinyi Hu, a co-author of this work from Penn State University.
-This repository provides a clean Python/sklearn implementation of the adversarial active
-learning experiments described in Sections III and IV of the paper.
+I am a co-author of this work. This repository provides a clean Python/sklearn
+implementation of the adversarial active learning experiments described in
+Sections III and IV of the paper.
 
 ## What This Reproduces
 
