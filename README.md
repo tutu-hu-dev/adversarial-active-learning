@@ -1,13 +1,8 @@
 # Adversarial Active Learning
 
-Code implementation of the experiments from my co-authored paper:
-
-> **Adversarial Learning: A Critical Review and Active Learning Study.**
-> *IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2017.*
-
-I am a co-author of this work. This repository provides a clean Python/sklearn
-implementation of the adversarial active learning experiments described in
-Sections III and IV of the paper.
+Code implementation of experiments from my co-authored paper (IEEE MLSP 2017).
+This repository provides a clean Python/sklearn implementation of the adversarial
+active learning experiments described in the paper.
 
 ## What This Reproduces
 
